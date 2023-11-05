@@ -1,0 +1,18 @@
+[submodule "lib/DHT-sensor-library"]
+	path = lib/DHT-sensor-library
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "lib/Adafruit_Sensor"]
+	path = lib/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "lib/Adafruit_BME280_Library"]
+	path = lib/Adafruit_BME280_Library
+	url = https://github.com/adafruit/Adafruit_BME280_Library.git
+[submodule "lib/Adafruit_BusIO"]
+	path = lib/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+[submodule "lib/AS5600"]
+	path = lib/AS5600
+	url = https://github.com/RobTillaart/AS5600.git
+[submodule "lib/BH1750"]
+	path = lib/BH1750
+	url = https://github.com/claws/BH1750.git
