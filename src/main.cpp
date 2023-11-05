@@ -7,6 +7,8 @@
 #include <DHT_U.h>
 #include "AS5600.h"
 #include <BH1750.h>
+#include <WiFi.h>
+#include <PubSubClient.h>
 
 void setup() {
   // put your setup code here, to run once:

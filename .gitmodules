@@ -16,3 +16,6 @@
 [submodule "lib/BH1750"]
 	path = lib/BH1750
 	url = https://github.com/claws/BH1750.git
+[submodule "lib/pubsubclient"]
+	path = lib/pubsubclient
+	url = https://github.com/knolleary/pubsubclient.git

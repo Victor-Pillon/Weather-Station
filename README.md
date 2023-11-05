@@ -8,3 +8,4 @@ A MQTT ESP32 Project for a Weather Station
 [Adafruit_BusIO](https://github.com/adafruit/Adafruit_BusIO)
 [AS5600](https://github.com/RobTillaart/AS5600)
 [BH1750](https://github.com/claws/BH1750)
+[pubsubclient](https://github.com/knolleary/pubsubclient)
